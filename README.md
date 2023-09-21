@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HiteshReddy28
-- 👀 I’m interested in Chess, and coding(problem solving)
-- 🌱 I’m currently learning Computer Science Engineering
+- 👀 I’m interested in Chess, and coding(problem-solving)
+- 🌱 I’m doing my master's in Computer Science at the New Jersey Institute of Technology. 
 - 📫 reach me using buereddyhiteshreddy28@gmail.com
 
 <!---
