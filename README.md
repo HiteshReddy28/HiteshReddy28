@@ -40,16 +40,6 @@ AI-powered task planner integrating LangGraph with LLMs to dynamically generate 
 
 ---
 
-## 📜 Certifications
-
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6267a07c-6bf3-4c50-af48-b2910b87143d/public_url)
-- [Azure AI Engineer Associate](https://www.credly.com/badges/a4eaedea-3086-498f-b424-86e164fdab63/public_url)
-- [AWS ML Foundations](https://www.credly.com/badges/7379a141-9fef-459c-8737-deba080debb2/public_url)
-- [Machine Learning A-Z (Udemy)](https://www.udemy.com/certificate/UC-b7a8d5e9-f2fd-4034-a5e1-ee9780122130/)
-- [Neural Networks & Deep Learning (Coursera)](https://coursera.org/share/9a16ac940e63362596f7fe64ea72b323)
-
----
-
 ## 📈 GitHub Stats
 
 ![Hitesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiteshReddy28&show_icons=true&theme=radical)
@@ -62,7 +52,7 @@ AI-powered task planner integrating LangGraph with LLMs to dynamically generate 
 
 - 🌐 [Portfolio](https://portfolio-hiteshreddy28.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hitesh-reddy28/)
-- 🧠 [LeetCode](https://leetcode.com/HiteshReddy28/)
+- 🧠 [LeetCode](https://leetcode.com/u/Hitesh_Reddy/)
 - 📧 buereddyhiteshreddy28@gmail.com
 
 ---
