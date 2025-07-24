@@ -42,7 +42,6 @@ AI-powered task planner integrating LangGraph with LLMs to dynamically generate 
 
 ## 📈 GitHub Stats
 
-![Hitesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiteshReddy28&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshReddy28&layout=compact&theme=radical)
 
